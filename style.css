@@ -10,7 +10,7 @@
   box-sizing: border-box;
   transition:all .2s linear;
   text-transform: capitalize;
-  font-family: 'Exo 2', sans-serif;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 html{
